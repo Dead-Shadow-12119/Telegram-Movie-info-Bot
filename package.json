@@ -1,0 +1,17 @@
+{
+  "name": "telegram_bot",
+  "version": "0.1.0",
+  "description": "A simple telegram bot I am working on as a first project.",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/start"
+  },
+  "author": "Dead Shadow",
+  "license": "ISC"
+}
